@@ -1,0 +1,42 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Ranjeet Singh
+Ranjeet Singh
+Java Developer
+
+Show Contacts
+
+Email
+sinranjeet1995@gmail.com
+
+Phone
++91 7068687097
+
+
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+
+## service
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
